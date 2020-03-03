@@ -9,4 +9,6 @@ public class Dialog {   // does not extend monodevelop
 	public string name;  // these will show up in the inspector when attached to a monodevelop script
 	[TextArea(3,10)]		// sets the size of text area in inspector
 	public string[] sentences;  // can add as many sentences as desired
+
+	public AudioClip[] audioClips;  //for audio files 
 }

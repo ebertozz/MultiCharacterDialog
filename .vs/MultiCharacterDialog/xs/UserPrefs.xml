@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{42475FFD-E873-2729-DA1C-27FA7A0B375C}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CharacTalk.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Dialog.cs">
     <Files>
       <File FileName="Assets/Scripts/Dialog.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/DialogManager.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/DialogTrigger.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/PlayerControl.cs" Line="44" Column="86" />
-      <File FileName="Assets/Scripts/FollowCamera.cs" Line="16" Column="32" />
-      <File FileName="Assets/Scripts/CharacTalk.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/DialogManager.cs" />
+      <File FileName="Assets/Scripts/DialogTrigger.cs" />
+      <File FileName="Assets/Scripts/PlayerControl.cs" Line="33" Column="42" />
+      <File FileName="Assets/Scripts/FollowCamera.cs" />
+      <File FileName="Assets/Scripts/CharacTalk.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +14,7 @@
           <Node name="MultiCharacterDialog" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="CharacTalk.cs" selected="True" />
+                <Node name="Dialog.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -24,7 +24,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="16f45732-bd11-410d-ac55-646d8a409e3a" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ca3f478b-881e-4057-8613-2c07b2f0f3e8" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
